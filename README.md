@@ -18,6 +18,8 @@ npm install
 
 Edit your /config/default.json file to include the correct MongoDB URI
 
+### Run Server
+
 ```bash
 npm run server      # Express API Only :5000
 npm start           # React Client Only :3000
